@@ -65,7 +65,6 @@ function isOverlapping(x, y, iframeRect) {
     );
 }
 
-
 document.addEventListener("DOMContentLoaded", function() {
     var audio = document.getElementById('audioPlayer');
     var startAt = 22; // Start time in seconds
